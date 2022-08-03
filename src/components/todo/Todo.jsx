@@ -15,14 +15,11 @@ function Todo({ todo }) {
   return (
     <StTodoContainer>
       <div>
-
-        
-
         <h2 className="todo-title">{todo.title}</h2>
         <div>{todo.body}</div>
       </div>
-      <StButtonSet>
 
+      <StButtonSet>
       <div>
           <StDetailButton
             onClick={() => {
