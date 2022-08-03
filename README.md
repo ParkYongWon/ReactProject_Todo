@@ -6,7 +6,8 @@
 
 
 
-![](2022-08-04-05-23-03.png)
+![구조구조](https://user-images.githubusercontent.com/108280991/182717571-7e650436-0a30-45a2-b598-da116899c3f8.PNG)
+
 
 
 
