@@ -18,9 +18,7 @@ const Detail = () => {
 
   return (
     <div>
-
       <StDetailBox>
-        
         <div>
             ID: {find.id}
         </div>
